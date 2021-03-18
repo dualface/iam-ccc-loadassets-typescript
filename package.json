@@ -1,0 +1,20 @@
+{
+    "name": "iam-ccc-loadassets-typescript",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.ts",
+    "dependencies": {},
+    "devDependencies": {},
+    "scripts": {},
+    "keywords": [
+        "game",
+        "framework"
+    ],
+    "author": "liaoyulei",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/dualface/iam-ccc-loadassets-typescript.git"
+    },
+    "homepage": "https://github.com/dualface/iam-ccc-loadassets-typescript",
+    "license": "Apache-2.0"
+}
